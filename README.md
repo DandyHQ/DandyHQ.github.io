@@ -1,6 +1,2 @@
----
-title: DandyHQ
----
-
-# [DandyHQ.github.io](index.html)
+# [DandyHQ.github.io](dandyhq.github.io/index)
 Organization's Website
