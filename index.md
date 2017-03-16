@@ -1,6 +1,6 @@
 ---
 title: DandyHQ
-permalink: index.md
+permalink: index.html
 ---
 
 ## DandyHQ
