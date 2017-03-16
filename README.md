@@ -1,4 +1,2 @@
----
----
-# DandyHQ.github.io
-[Organization's Website]({{site.baseurl}}{% link index.md %})
+# [DandyHQ.github.io](dandyhq.github.io)
+Organization's Website
