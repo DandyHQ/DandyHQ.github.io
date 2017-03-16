@@ -1,6 +1,6 @@
 ---
 title: DandyHQ
-permalink: dandyhq.github.io
+permalink: index.md
 ---
 
 ## DandyHQ
