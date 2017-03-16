@@ -1,5 +1,6 @@
 ---
 title: DandyHQ
+permalink: dandyhq.github.io
 ---
 
 ## DandyHQ
