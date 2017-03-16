@@ -1,2 +1,2 @@
-# [DandyHQ.github.io](dandyhq.github.io)
+# [DandyHQ.github.io](index.html)
 Organization's Website
