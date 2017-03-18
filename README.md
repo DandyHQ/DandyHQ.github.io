@@ -1,2 +1,2 @@
-# [DandyHQ.github.io](dandyhq.github.io/index)
+# [DandyHQ.github.io](index.md)
 Organization's Website
