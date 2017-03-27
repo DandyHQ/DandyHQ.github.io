@@ -4,6 +4,7 @@ permalink: index.html
 ---
 
 ## DandyHQ
+[List of Features](features.md)
 
 ### Minutes
 * [March 7th](minutes/2017-03-07.md)
