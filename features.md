@@ -5,6 +5,8 @@ permalink: features.html
 
 ### Feature List
 
+[Back to index](index.md)
+
 #### Essential
 * Create, edit, delete plain text files
 * Malleable UI
