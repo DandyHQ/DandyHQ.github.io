@@ -7,20 +7,22 @@ permalink: features.html
 
 [Back to index](index.md)
 
-#### Essential
+#### Intended for v1.0.
 * Create, edit, delete plain text files
 * Malleable UI
   * moveable tiles and tabs
   * command bar is configurable
-* *Sexy interface*
-* Edit files *and* streams
-  * can be used as a terminal
-  * can browse directories
+* Can browse directories
 * Command bar
   * default commands
   * some sort of extension language for adding custom commands (Lua?)
+* Works on ubuntu, openBSD and fedora
+* Undo ability
+
+#### Intended for later versions
+* *Sexy interface*
+* Can be used as a terminal
 * Regular expressions (for searching/replacing)
-  * Regex?
   
 #### Desirable
 * Syntax highlighting
