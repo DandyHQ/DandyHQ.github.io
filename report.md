@@ -13,6 +13,8 @@ A text editor is a crucial tool in the belt of any software engineer. While text
 
 One of the core principles behind the design of Mace is that the user should be able to configure the text editor however they want. This means that we want to have a malleable user interface. In our design, the window is separated into panes. These panes are resizable, can hold multiple tabs, and can be arranged either horizontally or vertically from each other. This way, the user can keep multiple files in view at once at minimal cost of screen space. Each pane can be used to view and edit text files, or to browse directories.
 
+We have created some [initial designs](https://github.com/DandyHQ/mace-design) of the UI to get us started and make sure that everyone has the same idea about what we want it to look like.
+
 Mace will also have an editable action bar, from which the user can quickly execute common commands like Cut, Paste and Find. It will be possible to remove/add commands to the bar by simply clicking and typing their names in. They can then be executed by right-clicking on them. A basic set of commands will be recognised by default, but there will also be support for custom commands via an extension language. 
 
 These features are the ones we consider to be fundamental to our product. Mace is intended to work on ubuntu, openBSD and fedora. 
@@ -28,3 +30,26 @@ The integrity of the code will, of course, be supported by version control throu
 
 Another way we are trying to ensure the quality of our product is through prototyping. Vaughan has created an [interactive prototype](https://dandyhq.github.io/mace-prototype/) of Mace's UI, so that we all have something to refer to when building the source code. This way, we are less likely to inadvertently weaken the design to make the work easier during implementation.
 
+#### PROJECT MANAGEMENT
+
+Task | Timeframe | Project Member/s
+--- | --- | ---
+Key features selected | Done | All
+Github repository created, all members added | Done | All
+Tentative schedule created | Done | Hannah/Ryan
+**Deliverable** Report 1 | Done | Ryan/Hannah
+Designs of the UI drawn up | Done | Vaughan
+Prototype of the basic functions | Done | Vaughan
+Windows can be created | Done | Mytchel
+Panes can be created within windows | Done | Mytchel
+Panes can be dragged to split the window | Done | Mytchel
+Text can be entered | Done | Mytchel
+Action Bar is editable | Done | Mytchel
+Panes can be resized | 2 weeks | Hannah/Ryan
+Font can be selected and changed | 2 weeks | Hannah/Ryan
+Basic commands can be executed (copy/paste/save/find etc) | 2 weeks | Mytchel/Vaughan
+Changes recorded, undo can be executed | 2 weeks | Mytchel/Vaughan
+Custom commands can be created and executed | 2 weeks | Mytchel/Vaughan
+Syntax highlighting | Merely desirable | ?
+Smart indenting | Merely desirable | ?
+Keyboard shortcuts | Merely desirable | ?
