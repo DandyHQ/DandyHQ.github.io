@@ -14,3 +14,4 @@ permalink: index.html
 * [March 20th](minutes/2017-03-20.md)
 * [March 23rd](minutes/2017-03-27.md)
 * [April 3rd](minutes/2017-04-03.md)
+* [April 10th](minutes/2017-04-10.md)
