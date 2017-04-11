@@ -8,6 +8,8 @@ permalink: index.html
 
 [Milestones](milestones.md)
 
+[Report](report.md)
+
 ### Minutes
 * [March 7th](minutes/2017-03-07.md)
 * [March 13th](minutes/2017-03-13.md)
