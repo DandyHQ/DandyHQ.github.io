@@ -20,7 +20,7 @@ The integrity of the code will, of course, be supported by version control throu
 
 We also plan to be vigilant with our documentation, to best enable smooth collaboration. Mytchel has made this [development document](https://github.com/DandyHQ/mace/wiki/Development) for reference, and we are all committed to producing clear, informative and regularly updated comments in the code where necessary. We also have regular (weekly) meetings to touch base, discuss any issues we're having, and make clear plans about what each of us will do over the following week. Ryan takes minutes at each meeting, and these are [all available](https://github.com/DandyHQ/DandyHQ.github.io/tree/master/minutes) on GitHub for the team's reference.
 
-Another way we are trying to ensure the quality of our product is through prototyping. Vaughan has created an [interactive prototype](https://dandyhq.github.io/mace-prototype/) of Mace's UI, so that we all have something to refer to when building the source code. This way, we are less likely to inadvertently weaken the design to make the work easier during implementation.
+Another way we are trying to ensure the quality of our product is through prototyping. Vaughan has created an [interactive prototype](https://github.com/DandyHQ/mace-prototype) of Mace's UI, so that we all have something to refer to when building the source code. This way, we are less likely to inadvertently weaken the design to make the work easier during implementation.
 
 #### PROJECT MANAGEMENT
 
