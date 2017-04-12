@@ -1,4 +1,4 @@
-### 345 Report Draft
+### COSC345 Report 1
 
 #### SECTION ONE: WHAT AND WHY
 
