@@ -4,7 +4,7 @@ permalink: index.html
 ---
 
 ## DandyHQ
-[**Schedule for May**](may-schedule.md)
+[Schedule for May](may-schedule.md)
 
 [List of Features](features.md)
 
