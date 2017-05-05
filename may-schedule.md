@@ -1,6 +1,6 @@
 ---
 title: Schedule for May
-permalink: may-schedule.md
+permalink: may-schedule.html
 ---
 
 ### Schedule for May
