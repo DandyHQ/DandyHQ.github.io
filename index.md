@@ -26,3 +26,5 @@ permalink: index.html
 * [May 29th](minutes/2017-05-29.md)
 * [July 3rd](minutes/2017-07-03.md)
 * [July 10th](minutes/2017-07-10.md)
+* [July 17th](minutes/2017-07-17.md)
+* [July 31th](minutes/2017-07-31.md)
