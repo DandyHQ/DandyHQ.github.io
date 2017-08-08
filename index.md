@@ -28,3 +28,4 @@ permalink: index.html
 * [July 10th](minutes/2017-07-10.md)
 * [July 17th](minutes/2017-07-17.md)
 * [July 31th](minutes/2017-07-31.md)
+* [August 7th](minutes/2017-08-07.md)
