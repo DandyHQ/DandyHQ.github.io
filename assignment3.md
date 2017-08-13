@@ -3,13 +3,13 @@
 *  Arrow keys now work
 *  Pressing Enter retains indentation level
 *  Undo and Redo have been implemented
-* Multiple cursors
-* Replaced a large amount of Lua with a small amount of C
+*  Multiple cursors
+*  Replaced a large amount of Lua with a small amount of C
 *  Fixed bug where Mace would sometimes crash when the save commands was used
 *  Config file allows customisability (font, scrollbar, key bindings)
 *  The usual keyboard bindings (reconfigurable)
-* Acme style scrollbar
-* Rendering has been revamped such that Mace is faster now
+*  Acme style scrollbar
+*  Rendering has been revamped such that Mace is faster now
 
 ### Things to Improve
 
@@ -24,37 +24,29 @@
 
 ## Actual Assignment
 
-<some sort of good introduction>
+After using Mace for our text editing needs during the break and this semester, we have been able to see many ways in which the product can be further improved. Mace was not entirely finished at the end of semester 1, so we already had some ideas about what still needed to be implemented or fixed, and using it gave us some ideas for further features we'd like to include that we hadn't thought of.
 
-Changes we've done already:
+One of the glaring problems for Mace's usability was that the arrow keys did nothing, making it quite difficult to navigate the text. We have now implemented this, and spent time to ensure that this works completely and intuitively, with all UTF-8 characters. Additionally, Mace now has familiar keyboard shortcuts for various commands (cut, paste, save, etc), and new Undo/Redo commands have been added. We have also fixed a bug that the marker of our semester 1 deliverable pointed out: that Mace would sometimes crash when the save commands were used.
 
-
-Mace was not entirely finished at the end of semester 1, so we already had some ideas about what still needed to be implemented or fixed. After using Mace for our text editing needs during the break and this semester, we have been able to see more ways in which the product can be further improved. 
-
-One of the glaring problems for Mace's usability was that the arrow keys did nothing, making it quite difficult to navigate the text. We have now implemented this, and spent time to ensure that this works completely and intuitively, with all UTF-8 characters. Additionally, Mace now has familiar keyboard shortcuts for various commands (cut, paste, save, etc), and new Undo/Redo commands have been added. We have also fixed a bug that our marker pointed out: that Mace would sometimes crash when the save commands were used.
-
-Remove Lua and replace with C, revamped rendering.
+We also removed the Lua we had used for **......**, and replaced it with C. We **revamped the rendering**, making Mace run much faster.
 
 When using Mace, we found that it was annoying that it didn't retain the current indentation level when Return was pressed, but it went to the start of the next line. We have since implemented this feature, and also plan to implement block indenting and block unindenting, meaning that the user can highlight a block of text and change the indent level of all of it at once.
 
-Acme style scroll bar and multiple cursors
+We have also implemented some features that we've seen in similar text editors (such as Acme) and found very useful, though they aren't standardly available. One of these is a scroll bar in which you can left-click near the top and it will scroll down a little, or left-click near the bottom and it will scroll down a lot. It will similarly scroll up with a right-click. The other less-common feature we implemented in Mace is the ability to have multiple cursors active at once, which is useful when you want to, for example, edit the name of a variable in several places in the text at once.
 
 One of the core design principles behind Mace is that the user should be able to customise the text editor to suit their preferences. Mace now has a config file, where the user can change keybindings for commands, the position and behaviour of the scrollbar, and the font.
 
-Changes we're gonna do:
+In addition to these changes that we've already implemented, we intend to implement the following features as well.
 
-We originally intended for Mace to have a "malleable" user interface, in which the window would be separated into resizable, rearrangeable tiles. This would allow the user to keep multiple files in view at once, at minimal cost of screen space. Unfortunately, this feature was not included in our semester 1 deliverable because we underestimated how much time it would take to get everything done. We intend to reimplement this feature this semester.
+We originally intended for Mace to have a "malleable" user interface, in which the window would be separated into resizable, rearrangeable tiles. This would allow the user to keep multiple files in view at once, at minimal cost of screen space. Unfortunately, this feature was not included in our semester 1 deliverable because we underestimated how much time it would take to get everything done and working properly. We intend to reimplement this feature this semester.
 
-Another problem is that cut, copy and paste commands do not work with the system paste buffer, which means that text cannot be copied and pasted in or out of Mace from or to other applications. This is something that we didn't realise we use as much as we do, but trying to use Mace as our primary text editor showed us that it is an important feature, so we are aiming to have that implemented by the end of the semester as well.
+Another problem is that cut, copy and paste commands do not work with the system paste buffer, which means that text cannot be copied and pasted in (or out) of Mace from (or to) other applications. This is something that we didn't realise we use as much as we do, but using Mace as our primary text editor showed us that it is a very important feature, so we are aiming to have that implemented by the end of the semester as well.
 
-Goto line number
-
-Scheduling:
-
-To improve the usability of Mace this semester, we will make the above changes (and do some polishing / bug fixing). Here is the schedule we are going to use:
-
+Lastly, when using Mace, we found we often wanted to go directly to a given line (for example, when we had compiling errors), so we intend to add that feature as well.
 
 #### PROJECT MANAGEMENT
+
+To improve the usability of Mace this semester, we will make the above changes (and do some polishing / bug fixing). Here is the schedule we are going to use:
 
 Task | Timeframe | Project Member/s
 --- | --- | ---
