@@ -26,9 +26,9 @@
 
 After using Mace for our text editing needs during the break and this semester, we have been able to see many ways in which the product can be further improved. Mace was not entirely finished at the end of semester 1, so we already had some ideas about what still needed to be implemented or fixed, and using it gave us some ideas for further features we'd like to include that we hadn't thought of.
 
-One of the glaring problems for Mace's usability was that the arrow keys did nothing, making it quite difficult to navigate the text. We have now implemented this, and spent time to ensure that this works completely and intuitively, with all UTF-8 characters. Additionally, Mace now has familiar keyboard shortcuts for various commands (cut, paste, save, etc), and new Undo/Redo commands have been added. We have also fixed a bug that the marker of our semester 1 deliverable pointed out: that Mace would sometimes crash when the save commands were used. ** is this the problem our marker pointed out? **
+One of the glaring problems for Mace's usability was that the arrow keys did nothing, making it quite difficult to navigate the text. We have now implemented this, and spent time to ensure that this works completely and intuitively, with all UTF-8 characters. Additionally, Mace now has familiar keyboard shortcuts for various commands (cut, paste, save, etc), and new Undo/Redo commands have been added. We have also fixed a bug that the marker of our semester 1 deliverable pointed out: that Mace would sometimes crash when the save commands were used. **is this the problem our marker pointed out?**
 
-We have removed the Lua we had used for **......**, and replaced it with C. We **revamped the rendering**, making Mace run much faster.
+We have removed the Lua we had used for **something**, and replaced it with C. We **revamped the rendering**, making Mace run much faster.
 
 When using Mace, we found that it was annoying that it didn't retain the current indentation level when Return was pressed, but it went to the start of the next line. We have since implemented this feature, and also plan to implement block indenting and block unindenting, meaning that the user can highlight a block of text and change the indent level of all of it at once.
 
