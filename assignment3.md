@@ -45,7 +45,7 @@ Config file allows customisability (font, scrollbar, key bindings) | DONE | Mytc
 The usual keyboard bindings (reconfigurable) | DONE | Mytchel
 Acme style scrollbar | DONE | Mytchel
 Rendering has been revamped such that Mace is faster now | DONE | Mytchel
-Block indenting | 1 week (14 Aug) | Ryan/Hannah
+Block indenting | 1 week (21 Aug) | Ryan/Hannah
 Get cut, copy and paste to work with the system paste buffer | 2 weeks (28 Aug) | Mytchel
 Reimplement tiles | 2 weeks (11 Sept) | Mytchel
 Go to line number | 2 weeks (25 Sept) | Mytchel
