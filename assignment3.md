@@ -62,5 +62,5 @@ Acme style scrollbar | DONE | Mytchel
 Rendering has been revamped such that Mace is faster now | DONE | Mytchel
 Get cut, copy and paste to work with the system paste buffer | 2 weeks (28 Aug) | Mytchel 
 Reimplement tiles | 2 weeks (11 Sept) | Mytchel
-Goto line number | 2 weeks (25 Sept) | Mytchel
+Go to line number | 2 weeks (25 Sept) | Mytchel
 Various bug fixes and bits of polish, ready to submit | 1 week (2 Oct) | Mytchel
