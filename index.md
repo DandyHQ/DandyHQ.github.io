@@ -10,7 +10,9 @@ permalink: index.html
 
 [Milestones](milestones.md)
 
-[Report](report.md)
+[Assignment 1](report.md)
+
+[Assignment 3](assignment3.md)
 
 ### Minutes
 * [March 7th](minutes/2017-03-07.md)
