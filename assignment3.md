@@ -25,15 +25,16 @@ To improve the usability of Mace this semester, we will make the above changes (
 Task | Timeframe | Project Member/s
 --- | --- | ---
 Get arrow keys to work | DONE | Ryan/Hannah/Mytchel
-Pressing Enter retains indentation level | DONE | Mytchel
+Pressing Return retains indentation level | DONE | Mytchel
 Undo and Redo have been implemented | DONE | Mytchel
 Multiple cursors | DONE | Mytchel
 Replaced Lua with C | DONE | Mytchel
 Fixed bug where Mace would sometimes crash when the save commands was used | DONE | Mytchel
 Config file allows customisability (font, scrollbar, key bindings) | DONE | Mytchel
 The usual keyboard bindings (reconfigurable) | DONE | Mytchel
-Acme style scrollbar | DONE | Mytchel
-Rendering has been revamped such that Mace is faster now | DONE | Mytchel
+Acme-like scrollbar behaviour | DONE | Mytchel
+Left-hand side scrollbar option | DONE | Vaughan
+Improve rendering | DONE | Mytchel
 Block indenting | 1 week (21 Aug) | Ryan/Hannah
 Go to line number (with scrolling) | 2 weeks (28 Aug) | Vaughan
 Page Up/Down | 1 week (28 Aug) | Ryan, Hannah, Vaughan
