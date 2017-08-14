@@ -27,7 +27,7 @@ Task | Timeframe | Project Member/s
 Pressing Return retains indentation level | DONE | Mytchel
 Undo and Redo have been implemented | DONE | Mytchel
 Multiple cursors | DONE | Mytchel
-Get arrow keys to work | DONE | Ryan/Hannah/Mytchel
+Get arrow keys to work | DONE | Ryan, Hannah, Mytchel
 Replaced Lua with C | DONE | Mytchel
 Fixed bug where Mace would sometimes crash when the save commands was used | DONE | Mytchel
 Config file allows customisability (font, scrollbar, key bindings) | DONE | Mytchel
@@ -35,7 +35,7 @@ The usual keyboard bindings (reconfigurable) | DONE | Mytchel
 Acme-like scrollbar behaviour | DONE | Mytchel
 Left-hand side scrollbar option | DONE | Vaughan
 Improve rendering | DONE | Mytchel
-Block indenting | 21 Aug | Ryan/Hannah
+Block indenting | 21 Aug | Ryan, Hannah
 Go to line number (with scrolling) | 28 Aug | Vaughan
 Page Up/Down | 28 Aug | Ryan, Hannah, Vaughan
 Get cut, copy and paste to work with the system paste buffer | 4 Sept | Mytchel
