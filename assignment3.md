@@ -38,5 +38,5 @@ Improve rendering | DONE | Mytchel
 Block indenting | 1 week (21 Aug) | Ryan/Hannah
 Go to line number (with scrolling) | 2 weeks (28 Aug) | Vaughan
 Page Up/Down | 1 week (28 Aug) | Ryan, Hannah, Vaughan
-Get cut, copy and paste to work with the system paste buffer | 3 weeks (4 Aug) | Mytchel
+Get cut, copy and paste to work with the system paste buffer | 3 weeks (4 Sept) | Mytchel
 Final round of bug fixing / polish | 4 weeks (2 Oct) | Everyone
